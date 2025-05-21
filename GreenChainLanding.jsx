@@ -85,7 +85,7 @@ export default function GreenChainLanding() {
 
       <footer className="text-center mt-10">
         <Button asChild className="bg-green-700 hover:bg-green-800 text-white px-6 py-3 rounded-2xl text-lg">
-          <a href="/downloads/greenchain-whitepaper.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="GreenChain.pdf" target="_blank" rel="noopener noreferrer">
             Download Full Whitepaper (PDF)
           </a>
         </Button>
